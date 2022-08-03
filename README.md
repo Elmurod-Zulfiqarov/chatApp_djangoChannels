@@ -1,1 +1,1 @@
-# CLC-boilerplate
+# CLC-boilerplate# chatApp_djangoChannels
